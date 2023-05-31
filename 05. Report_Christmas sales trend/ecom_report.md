@@ -1,4 +1,4 @@
-[Link to Tableau report](https://public.tableau.com/views/christmas_16850431515080/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+🔗 [Link to Tableau report](https://public.tableau.com/views/christmas_16850431515080/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This report has 3 sections. *Use the dots at the top of the report to navigate.*
 - Overview: When do people start shopping for Christmas? How many Christmas-themed products did the store have in 2011?

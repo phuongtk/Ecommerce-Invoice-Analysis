@@ -1,12 +1,12 @@
 # Ecommerce Invoice Analysis
-## Summary
+## :scroll: Summary
 
 The objective of this project is to explore the invoice data of an ecommerce business in 2010-2011 to generate actionable insights for the business. A variety of SQL techniques such as window functions, CTEs, joins, subqueries are applied throughout this project. After cleaning and modelling the dataset using SQL, insights will be visualised into dashboard and summary report using Tableau. 
 
 Lack of context is the biggest challenge for this project because there were not any types of data dictionary to explain the data contained in each field. Therefore, incorrect interpretations of data in this project are inevitable and open to feedback.
 
 
-## Repository directory
+##  :bookmark_tabs: Repository directory
 #### 01. Source
 This directory consists of 2 csv file:
 - The **original dataset** retrieved from DataDNA Dataset Challenges of Onyx Data (August 2021 challenge) titled Ecommerce Busisness Dataset. This data was made available by Dr Daqing Chen, Director: Public Analytics group. chend ‘@’ lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
@@ -25,5 +25,5 @@ This directory contains a link to a Tableau dashboard titled _Ecommerce Business
 This directory contains a link to a Tableau report titled _Christmas Sales Trends - Ecommerce Business_ along with a short description explaining applications of this report. The data source for this report is tables modelled using SQL queries in directory 03.
 
 
-## Contact
+## :grin: Contact
 Feel free to reach out to me through my email phuongtk.work@gmail.com or my [Linkedin](https://www.linkedin.com/in/khanhphuongtran/).

@@ -24,7 +24,7 @@ This directory contains a link to a Tableau dashboard titled _Ecommerce Business
 #### [05. Report_Christmas sales trend](https://github.com/phuongtk/Ecommerce-Invoice-Analysis/tree/b5495ddf4d5b229c9be2bb3cc5c1391c97abcf01/05.%20Report_Christmas%20sales%20trend)
 This directory contains a link to a Tableau report titled _Christmas Sales Trends - Ecommerce Business_ along with a short description explaining the applications of this report. The data source for this report is tables modelled using SQL queries in [directory 03](https://github.com/phuongtk/Ecommerce-Invoice-Analysis/tree/b5495ddf4d5b229c9be2bb3cc5c1391c97abcf01/03.%20Data%20exloration).
 
-#### 06. RFM analysis
+#### [06. RFM analysis](https://github.com/phuongtk/Ecommerce-Invoice-Analysis/tree/22083d3dfaa5fc28935b98cf1e482951e360cc7e/06.%20RFM%20analysis)
 This directory contains an SQL text file that models the clean dataset for RFM analysis and a Markdown file that explain the modelling process, and conclusions of the RFM analysis along with the link to a dashboard and how to use it for analysis. The SQL script is written with MySQL.
 
 ## ✅ Contact

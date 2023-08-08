@@ -28,4 +28,5 @@ This directory contains a link to a Tableau report titled _Christmas Sales Trend
 This directory contains an SQL text file that models the clean dataset for RFM analysis and a Markdown file that explain the modelling process, and conclusions of the RFM analysis along with the link to a dashboard and how to use it for analysis. The SQL script is written with MySQL.
 
 ## ✅ Contact
+I would appreciate any feedback to improve my data analysis skills.
 Feel free to reach out to me through my email phuongtk.work@gmail.com or my [Linkedin](https://www.linkedin.com/in/khanhphuongtran/).
